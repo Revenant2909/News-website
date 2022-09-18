@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "TC Sessions: Crypto is in Miami — and 5 more reasons students should go",
+            "description": "What can students get out of going to TC Sessions: Crypto in Miami this November? We’re glad you asked. We made a list — check it out.",
+            "url": "https://techcrunch.com/2022/09/17/tc-sessions-crypto-is-in-miami-and-5-more-reasons-students-should-go/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Crypto_Wordpress_Header_Image_1200x628-2.png",
+            "publishedAt": "2022-09-17T16:25:40Z",
+            "content": "If youre a university- or college-level student who believes the future of finance is crypto or even if you’re just crypto curious pack a bag and head to Miami for TC Sessions: Crypto on November 17.… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Amanda Silberling",
+            "title": "YouTube Shorts could steal TikTok's thunder with a better deal for creators",
+            "description": "The biggest open secret in short form video has nothing to do with the algorithm. The secret is that you can’t get rich on TikTok, because even the most viral creators earn a negligible portion of their income from the platform itself. TikTok remains hugely d…",
+            "url": "https://techcrunch.com/2022/09/17/youtube-shorts-could-steal-tiktoks-thunder-with-a-better-deal-for-creators/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/youtube-shorts-tiktok-1.jpg?resize=1200,675",
+            "publishedAt": "2022-09-17T15:01:17Z",
+            "content": "The biggest open secret in short form video has nothing to do with the algorithm. The secret is that you cant get rich on TikTok, because even the most viral creators earn a negligible portion of the… [+9550 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Connie Loizos",
+            "title": "VC Ann Miura-Ko is looking to help more students answer the question: Is this idea big enough?",
+            "description": "In a development that's self-serving and also probably pretty helpful to aspiring founders, Floodgate has developed a new program to help student teams from across the country understand what big ideas look like -- and why most concepts are not big ideas.",
+            "url": "https://techcrunch.com/2022/09/16/vc-ann-miura-ko-is-looking-to-help-more-students-answer-the-question-is-this-idea-big-enough/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/Ann-Miura-Ko-Floodgate-VenturesDSC03922.jpg?resize=1200,800",
+            "publishedAt": "2022-09-17T02:12:45Z",
+            "content": "One could probably argue that Floodgate, the Bay Area-based seed-stage venture firm, punches above its weight. The roughly 15-year-old firm has just around $500 million in assets under management — i… [+8701 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anita Ramaswamy",
+            "title": "Chain Reaction x Equity talk the Ethereum Merge",
+            "description": "If you are into web3, the biggest news of the week in tech was not the massive Figma-Adobe deal. No, the leading story of the last few days — arguably even the last few weeks — has been the Ethereum Merge. The Merge, an upgrade to the Ethereum blockchain that…",
+            "url": "https://techcrunch.com/2022/09/17/chain-reaction-equity-podcast-ethereum-merge-startups-reactions/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/equity-x-chain-reaction-feature-1.jpg?resize=1200,675",
+            "publishedAt": "2022-09-17T01:53:07Z",
+            "content": "If you are into web3, the biggest news of the week in tech was not the massive Figma-Adobe deal. No, the leading story of the last few days — arguably even the last few weeks — has been the Ethereum … [+2612 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Greg Kumparak",
+            "title": "Adobe buys Figma, Uber gets hacked, and Google shrinks Area 120",
+            "description": "Welcome to Week in Review, the newsletter where we quickly sum up the most read TechCrunch stories from the last sevenish days. The goal? Even if you've had a busy week, a quick skim of WiR should keep you in the (tech) loop.",
+            "url": "https://techcrunch.com/2022/09/17/adobe-buys-figma-uber-gets-hacked-and-google-shrinks-area-120/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg",
+            "publishedAt": "2022-09-16T23:13:55Z",
+            "content": "Hello, friends! Welcome back to Week in Review, the newsletter where we quickly sum up the most read TechCrunch stories from the last sevenish days. The goal? Even if you’ve had a busy week, a quick … [+2912 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "Community isn't a buzzword, it's a challenge",
+            "description": "Welcome to Startups Weekly, a fresh human-first take on this week’s startup news and trends. To get this in your inbox, subscribe here. I first covered Launch House in Oct 2020, when the co-founders described a strong focus on inclusion when creating hacker h…",
+            "url": "https://techcrunch.com/2022/09/17/community-isnt-a-buzzword-its-a-challenge/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/startups-weekly-featured1.jpg?resize=1200,675",
+            "publishedAt": "2022-09-16T22:48:19Z",
+            "content": "Welcome to Startups Weekly, a fresh human-first take on this weeks startup news and trends. To get this in your inbox, subscribe here.\r\nI first covered Launch House in Oct 2020, when the co-founders … [+8113 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: iOS 16 takes off, TikTok clones BeReal, social cos go to Congress",
+            "description": "This Week in Apps offers a way to keep up with the latest from the world of apps, including news, updates, startup fundings, M&A and much more.",
+            "url": "https://techcrunch.com/2022/09/17/this-week-in-apps-ios-16-takes-off-tiktok-clones-bereal-social-cos-go-to-congress/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/this-week-in-apps-splash-2022.webp?resize=1200,637",
+            "publishedAt": "2022-09-16T22:00:31Z",
+            "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nGlobal app spending reached $65 billion in … [+24846 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Szkutak",
+            "title": "Emerging managers should take advantage of the slower fundraising market by courting LPs",
+            "description": "LPs may not have as much cash on hand as before but they may have something more important — time.",
+            "url": "https://techcrunch.com/2022/09/17/emerging-managers-should-take-advantage-of-the-slower-fundraising-market-by-courting-lps/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-652146145.jpg?resize=1200,851",
+            "publishedAt": "2022-09-16T20:36:38Z",
+            "content": "It can be hard for emerging venture managers to get on institutional investors’ radars. Many LPs already have long-term relationships in the asset class, and these investors frequently have lean team… [+507 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ivan Mehta",
+            "title": "iOS 16 users are getting creative with the new background removal feature for photos",
+            "description": "We said this a couple of months ago, and we’re sticking to it now: the new background removal and image cutout feature is the most fun thing to come out of iOS 16. Yes, Lock Screen widgets and customizations are useful, but you’re probably not going to tinker…",
+            "url": "https://techcrunch.com/2022/09/16/ios-16-users-are-getting-creative-with-the-new-background-removal-feature-for-photos/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Apple-iOS-visual-lookup.jpg?resize=1200,675",
+            "publishedAt": "2022-09-16T13:44:43Z",
+            "content": "We said this a couple of months ago, and we’re sticking to it now: the new background removal and image cutout feature is the most fun thing to come out of iOS 16. Yes, Lock Screen widgets and custom… [+2594 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Anna Heim",
+            "title": "No money for shelfware",
+            "description": "Too many subscriptions? Many of us are feeling this way, and so are companies: In a downturn, cutting unnecessary expenses is more important than ever. Is this why SaaS management solutions have become ubiquitous? Let's explore.",
+            "url": "https://techcrunch.com/2022/09/17/no-money-for-shelfware/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/NSussman_Techcrunch_Exchange-multicolor.jpg?resize=1200,900",
+            "publishedAt": "2022-09-16T12:35:37Z",
+            "content": "Welcome to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+1210 chars]"
+        }
+    ]
+}
