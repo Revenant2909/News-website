@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
-
+import flmicon from './flmicon.jpg'
+// import flmiconblack from './flmiconblack.jpg'
 export class Navbar extends Component {
   render() {
     return (<>
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark" >
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container-fluid">
-    {/* <img src="components/flmicon.jpg" alt="Could not load" /> */}
+  <img src={flmicon} alt='No image' width ="25px" />
     <a className="navbar-brand" href="/">Flame News</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
@@ -25,7 +26,8 @@ export class Navbar extends Component {
       </form> */}
     </div>
   </div>
-</nav></>
+</nav>
+<hr /></>
     )
   }
 }
