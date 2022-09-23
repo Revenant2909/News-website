@@ -60,12 +60,12 @@ export class News extends Component {
 
     return (<div className="container my-3">
       
-      <h1 className=" my-5">Top Headlines By - Flame News</h1>
+      <h1 className=" my-5">Top {this.props.topic} Headlines By - Flame News</h1>
       {this.state.loading&&<Spinner/>}
       <div className="row">
         { this.state.articles.map((element) => {
           return <div className="col-md-4 my-4" key={element.url}>
-            <NewsItem title={element.title.slice(0,60)} description={element.description.slice(0,116)} urlToImage={element.urlToImage} url={element.url} author={element.author} publishedAt={element.publishedAt}/>
+            <NewsItem title={element.title.slice(0,60)} description={element.description.slice(0,116)} urlToImage={element.urlToImage} url={element.url} author={element.author} date={element.publishedAt} source={element.source.name}/>
           </div>
         }
         )}

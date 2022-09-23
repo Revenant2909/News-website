@@ -45,3 +45,9 @@
 .navv{
   background-color:rgba(75, 75, 75, 0.233) !important;
 }
+.badgeclass{
+  font-size: 0.7rem;
+}
+.rule{
+  margin: 2%;
+}
