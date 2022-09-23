@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card-text{
+  color: #808080;
+}
+.navv{
+  background-color:rgba(75, 75, 75, 0.233) !important;
+}
