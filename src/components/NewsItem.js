@@ -10,7 +10,7 @@ const NewsItem = (props) => {
           <div className="card-header ">
             <div className="d-flex justify-content-start ">
               Featured By
-              <h6><span className="badge bg-info mx-2">{source ? source : "Unknown"}</span></h6>
+              <h6><span className="badge bg-danger mx-2">{source ? source : "Unknown"}</span></h6>
             </div>
           </div>
           <img src={urlToImage} className="card-img-top" alt="https://picsum.photos/seed/picsum/200/150" width="150" height="200" />

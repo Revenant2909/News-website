@@ -1,12 +1,12 @@
 import React from 'react'
-import flmicon from './flmicon.jpg'
-// import flmiconblack from './flmiconblack.jpg'
+// import flmicon from './flmicon.jpg'
+import flmiconblack from './flmiconblack.jpg'
 import { Link } from "react-router-dom";
 const Navbar = () => {
   return (<>
-    <nav className="navbar navbar-expand-lg navbar-border-light bg-light navv">
+    <nav className="navbar fixed-top navbar-expand-lg navbar-dark navv">
       <div className="container-fluid">
-        <img src={flmicon} alt='No' width="25px" />
+        <img src={flmiconblack} alt='No' width="25px"  />
         <Link className="navbar-brand" to="/">Flame News</Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
@@ -35,4 +35,4 @@ const Navbar = () => {
 
 }
 
-export default Navbar
+export default Navbar;

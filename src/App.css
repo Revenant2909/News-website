@@ -37,13 +37,13 @@
   }
 }
 .card{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .card-text{
-  color: #808080;
+  color: #2f2f2f;
 }
 .navv{
-  background-color:rgba(75, 75, 75, 0.233) !important;
+  background-color:rgba(0, 0, 0, 0.852) !important;
 }
 .badgeclass{
   font-size: 0.7rem;
@@ -53,4 +53,22 @@
 }
 .card{
   border-radius: 0.5%;
+}
+.my-3 {
+  margin-top: 5.7rem!important;
+  margin-bottom: 2rem!important;
+}
+.container-fluid{
+  color:rgb(130, 0, 128)!important;
+
+}
+.badge{
+  background-color: #8064A2 !important;
+
+}
+.card-img-top{
+  border-radius: 0%;
+}
+.maindiv{
+   color:#0e0913!important;
 }
