@@ -8,7 +8,7 @@ import InfiniteScroll from "react-infinite-scroll-component";
 
 
 const News =(props)=>{
-  
+    console.log(props.apiKey);
     const [articles, setArticles] = useState([])
     const [loading, setLoading] = useState(true)
     const [page, setPage] = useState(1)
@@ -37,7 +37,7 @@ const News =(props)=>{
     setLoading(false);
     setTotalResults(parsedData.totalResults);
     props.setProgress(100);
-
+    console.log(data);
   }
 
   useEffect(() => {
@@ -48,6 +48,7 @@ const News =(props)=>{
       <div className="container my-3 ">
       <h1 className=" my-2 mx-5">Top {props.topic} Headlines</h1>
       {loading && <Spinner/>}
+      
       <InfiniteScroll
         dataLength={articles.length}
         next={fetchMoreData}
